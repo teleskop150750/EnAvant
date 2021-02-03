@@ -11,7 +11,7 @@ export default (catalog) => {
     data: {
       buttons: [
         {
-          name: 'показать все',
+          name: 'Показать все',
           isActive: true,
           category: 'all',
         },
@@ -31,7 +31,7 @@ export default (catalog) => {
           category: 'undershirt',
         },
         {
-          name: 'спорт',
+          name: 'Спорт',
           isActive: false,
           category: 'sport',
         },

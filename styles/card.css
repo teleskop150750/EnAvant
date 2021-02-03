@@ -64,6 +64,7 @@
   margin-bottom: 1em;
   font-size: 1.25em;
   font-weight: 300;
+  text-align: justify;
 }
 
 .card__text--strong {
